@@ -1,0 +1,12 @@
+artillery_attack_left=images/Enemy/R
+artillery_attack_right=images/Enemy/R
+artillery_run_left=images/Enemy/R
+artillery_run_right=images/Enemy/R
+artillery_die_left=images/Enemy/R
+artillery_die_right=images/Enemy/R
+enemy_attack_left=images/Enemy/R
+enemy_attack_right=images/Enemy/R
+enemy_run_left=images/Enemy/R
+enemy_run_right=images/Enemy/R
+enemy_die_left=images/Enemy/R
+enemy_die_right=images/Enemy/R

@@ -1,0 +1,17 @@
+right_pistol_nojump:images/plays/play/right/up/pistol
+right_rpg_nojump:images/plays/play/right/up/rpg
+right_run:images/plays/play/right/down/run
+right_stand:images/plays/play/right/down/stand
+right_jump:images/plays/play/right/down/jump
+left_pistol_nojump:images/plays/play/left/up/pistol
+left_rpg_nojump:images/plays/play/left/up/rpg
+left_run:images/plays/play/left/down/run
+left_stand:images/plays/play/left/down/stand
+left_jump:images/plays/play/left/down/jump
+rescued:images/hostage/rescued
+unrescued:images/hostage/unrescued
+left:images/plane/left
+right:images/plane/right
+planefile:images/plane/planefile
+planefiledie:images/boom/planefiledie
+tool:images/bullet/tool

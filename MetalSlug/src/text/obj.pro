@@ -1,0 +1,10 @@
+play=element.Play
+boos=element.Boos
+enemy=element.Enemy
+artillery_enemy=element.ArtilleryEnemy
+map=element.MapObj
+hostage=element.Hostage
+GreenTaitan=element.GreenTaitan
+enemy_file=element.EnemyFile
+plane=element.Plane
+planefile=element.PlaneFile
